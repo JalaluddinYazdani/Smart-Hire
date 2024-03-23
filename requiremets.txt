@@ -1,0 +1,5 @@
+pip install gradio
+pip install PyMuPDF
+pip install Pillow
+pip install google-generativeai
+pip install python-dotenv

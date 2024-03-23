@@ -1,0 +1,6 @@
+Job: Software Engineer At Truera
+Design and implement complex distributed systems, build APIs around AI/ML observability, and partner with various engineers and product managers for new products and features.
+Engage in customer interactions to drive product features, review design and code, ensure high-quality deliverables, and take significant ownership of development with a pragmatic, results-driven approach.
+Advocate for engineering efficiency through continuous deployment, automation, monitoring, and development of self-healing systems while maintaining scalability, availability, and latency.
+Possess strong communication skills, provide mentoring, lead and foster team development, and continuously learn and grow while pushing the team and sharing knowledge.
+Require a BS in Computer Science or equivalent, 4+ years in distributed data systems, expertise in Java/Python/Go, and experience with data infrastructure and modern cloud-based architectures; experience in ML and container technologies is a plus.
