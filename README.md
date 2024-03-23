@@ -1,2 +1,2 @@
 # SmartHire
-Gen AI resume evaluation
+AI Based Resume Evaluation
